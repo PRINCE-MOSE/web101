@@ -104,8 +104,9 @@ body{
      margin: 5px 0 20px 0;
      
  }
- .slider.left-content.btn{
-     border: 2px solid #cabd09;
+ .btn{
+     /* border: 2px solid #28079e; */
+     background-color: aqua;
      border-radius: 35px;
      padding: 10px 30px;
      font-size: 14px;
@@ -114,5 +115,15 @@ body{
      margin-top: 20px;
      text-decoration: none;
      z-index: 200;
-     background-color: red;
+     background-color: rgb(22, 152, 161);
+ }
+ .paragraph{
+     color: aquamarine;
+ }
+ .aboutmetxt{
+     background-color:#cce4e9;
+     border-top-right-radius: 20px;
+     border-top-left-radius: 20px;
+     padding: 10px;
+
  }
